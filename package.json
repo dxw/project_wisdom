@@ -62,7 +62,7 @@
   },
   "dependencies": {
     "airtable": "^0.8.1",
-    "handlebars": "^4.7.6"
+    "handlebars": "^4.7.7"
   },
   "standard": {
     "env": [

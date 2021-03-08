@@ -61,7 +61,7 @@
     "webpack-cli": "^4.4.0"
   },
   "dependencies": {
-    "airtable": "^0.8.1",
+    "airtable": "^0.10.1",
     "handlebars": "^4.7.6"
   },
   "standard": {
